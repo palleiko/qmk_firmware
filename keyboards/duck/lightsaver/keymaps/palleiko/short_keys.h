@@ -1,9 +1,7 @@
 #ifndef SHORT_KEYS_H
 #define SHORT_KEYS_H
 
-#define __CTL__ LCTL(_______)
 #define ESC_CTL LT(FN1, KC_ESC)
-
 
 /* These are used for the FN1 layer toggled by the ESC_CTL key  */
 #define CTRL_1 LCTL(KC_1)
